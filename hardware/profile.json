@@ -1,0 +1,7 @@
+{
+  "cpuModel": "Intel(R) Core(TM) Ultra 9 285K",
+  "march": "arrowlake",
+  "threads": 24,
+  "gpu": "NVIDIA GeForce RTX 5080",
+  "rustTargetCpu": "alderlake"
+}

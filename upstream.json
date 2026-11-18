@@ -1,0 +1,11 @@
+{
+  "project": "dwproton",
+  "repo": "https://dawn.wine/dawn-winery/dwproton.git",
+  "tag": "dwproton-11.0-17",
+  "commit": "d85b818f2b3f8ae740bb189d7c21e57213d0ee1e",
+  "tagObject": "9976377f729dbe50b79b47eec6cf4bafd885146a",
+  "mirror": "https://github.com/dawn-winery/dwproton-mirror",
+  "signingKey": "E6A977FC4B13F2FAD95BEF7F22281EA4F96740C8",
+  "sdkImage": "registry.gitlab.steamos.cloud/proton/steamrt4/sdk/x86_64:4.0.20260714.251823-0",
+  "sdkDigest": "sha256:6c1789cad862fd8ed9d46d71bbf8752bb7cb2336ab5e9680c0f0e3e7c88d77f1"
+}
